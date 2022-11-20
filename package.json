@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa-ichimura/TypeScript-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa-ichimura/TypeScript-lesson/issues"
+  },
+  "homepage": "https://github.com/sa-ichimura/TypeScript-lesson#readme",
+  "dependencies": {
+  }
+}
