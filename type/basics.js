@@ -12,3 +12,4 @@ const number2 = 2;
 const printResult = true;
 const result = add(number1, number2, printResult);
 console.log(result);
+//# sourceMappingURL=basics.js.map

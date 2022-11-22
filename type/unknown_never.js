@@ -13,3 +13,4 @@ function generateError(message, code) {
     throw { message: message, code: code };
 }
 generateError("エラーが発生しました", 500);
+//# sourceMappingURL=unknown_never.js.map

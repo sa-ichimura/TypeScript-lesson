@@ -14,3 +14,4 @@ var Role;
     Role[Role["ADMIN"] = 0] = "ADMIN";
     Role[Role["READ_ONLY"] = 1] = "READ_ONLY";
 })(Role || (Role = {}));
+//# sourceMappingURL=object_array_enum.js.map
